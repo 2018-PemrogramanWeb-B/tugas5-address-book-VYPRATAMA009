@@ -17,7 +17,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Membuat , mengupdate, mendelete database php & mysql</title>
+	<title>Address Book</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
